@@ -30,7 +30,7 @@ Libraries/external API’s
      i.	A core set of packages and classes
     ii.	A set xml elements and attribute for declaring a manifest file
    iii.	A set of xml elements and attributes for declaring and accessing resources
-    iv. A set of intents
+    iv.   A set of intents
 
 
 
