@@ -7,6 +7,7 @@ Members
 4.	NUR ASFARINA SAHIRA BINTI NOR AZMAN	[B031610407]	[BITM]
 
 
+
 About Project
 1.	This project is about online quiz application which is consisting a set of random knowledge questions that can be answer through the app.
 2.	User need to enter their name to enter the app, so that if they achieve the high score their name will be save and will be display.
@@ -16,9 +17,11 @@ About Project
 6.	Total marks will be calculate and will be display if they succeed to answer all the quizzes correctly.
 
 
+
 Module/Functionalities
 1.	This app enable the user to gain new knowledges like the name of the actor of the movie and many general knowledges that will be ask.
 2.	It also can test the user’s ability in remembering and thinking in the shortest time while answering the correct answer.
+
 
 
 Libraries/external API’s
@@ -28,6 +31,7 @@ Libraries/external API’s
     ii.	A set xml elements and attribute for declaring a manifest file
    iii.	A set of xml elements and attributes for declaring and accessing resources
     iv. A set of intents
+
 
 
 Setup the development environment
